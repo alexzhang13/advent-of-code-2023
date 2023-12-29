@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-std=c++17, -Wall, -Wextra, -pedantic, -Wshadow, -Wnon-virtual-dtor, -Wimplicit-fallthrough, -Wlifetime ]
